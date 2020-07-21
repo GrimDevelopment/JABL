@@ -1,0 +1,53 @@
+! 11/1/2019 https://gfycat.com
+gfycat.com##.visible.type4.pro-cta
+||assets.gfycat.com/self/dktp2/profiles_dktp2.png$image
+||assets.gfycat.com/self/dktp1/sync_dktp1.png$image
+
+! 11/9/2019 https://community.spiceworks.com
+community.spiceworks.com###join-login_alt-modal
+
+! 12/4/2019 https://www.independent.co.uk
+www.independent.co.uk##video-js
+www.independent.co.uk##.sticky-video > div > div
+www.independent.co.uk###video-popout-close
+
+! 12/14/2019 https://userstyles.org
+userstyles.org##.android_button_button
+
+! 12/22/2019 https://linuxize.com
+||linuxize.com/images/vultr300250-ec3eb81788b8705235d4cafd8e05abd8.png$image
+
+! 1/13/2020 https://www.torrentleech.org
+www.torrentleech.org##.text-center.highlight-address.message
+
+! 3/15/2020 https://sourceforge.net
+sourceforge.net###mirror
+sourceforge.net###dlp-voip-quote
+
+! 3/15/2020 https://tinytorrent.net
+||tinytorrent.net/best-torrent-tracker-list-updated/$image
+tinytorrent.net##.mpp-overlay-bg
+tinytorrent.net##.mpp-content-desktop
+tinytorrent.net##.mpp-content
+||tinytorrent.net/wp-content/uploads/2018/06/nordvpn-coupon-discount1.png$image
+
+! 7/21/2020 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.login-modal-div
+||media.geeksforgeeks.org/wp-content/cdn-uploads/20200707154047/GFG_RT_CIP_8July.png$image
+www.geeksforgeeks.org###AP_G4GR_2
+www.geeksforgeeks.org###AP_G4GR_3
+www.geeksforgeeks.org###secondary
+www.geeksforgeeks.org###AP_G4GR_6
+||disqus.com/embed/comments/?base=default&f=geeksforgeeks&t_u=https%3A%2F%2Fwww.geeksforgeeks.org%2Fgrep-command-in-unixlinux%2F&t_d=grep%20command%20in%20Unix%2FLinux&t_t=grep%20command%20in%20Unix%2FLinux&s_o=default$subdocument
+www.geeksforgeeks.org##.nav-single
+www.geeksforgeeks.org##.upvoteArticle.plugins > div.plugins:nth-of-type(2)
+www.geeksforgeeks.org##.upvoteArticle.plugins
+www.geeksforgeeks.org##.entry-meta
+www.geeksforgeeks.org##p:nth-of-type(23)
+
+! 7/21/2020 https://www.wired.com
+www.wired.com##.expandable-growler-wrapper__expanded.expandable-growler-wrapper
+www.wired.com##.post-listing-component__list
+www.wired.com##.post-listing-component__wrapper > .link--arrow
+www.wired.com##.title-bar-component--null.title-bar-component
+www.wired.com##.sidebar-component--is-sticky.sidebar-component--right.sidebar-component
