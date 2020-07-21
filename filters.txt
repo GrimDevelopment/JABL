@@ -39216,3 +39216,10 @@ www.thefreewindows.com##.one-third.grid.footer-widget-2
 
 ! 7/20/2020 https://www.isitdownrightnow.com
 www.isitdownrightnow.com###likebox
+! 7/21/2020 github.com
+@@||github.githubassets.com/assets/github-1ae944845fbb44df93123e0428f17845.css$stylesheet,domain=github.com
+@@||github.githubassets.com/assets/*$stylesheet,domain=github.com
+@@||github.githubassets.com^$stylesheet,domain=github.com
+@@||github.githubassets.com/assets/github-1ae944845fbb44df93123e0428f17845.css$domain=github.com
+@@||github.githubassets.com/assets/*$domain=github.com
+@@||github.githubassets.com^$domain=github.com
