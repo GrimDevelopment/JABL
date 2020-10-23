@@ -1,1 +1,1 @@
-# ublockfilters
+# Block list for UBlock.
