@@ -1,1 +1,1 @@
-# Block list for UBlock.
+# Just Another Block List
